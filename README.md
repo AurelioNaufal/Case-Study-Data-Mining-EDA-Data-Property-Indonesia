@@ -1,11 +1,14 @@
-#### EDA and Insight from Property Data in Indonesia
+# 🏠 EDA and Insights: Indonesia Property Data (2021-2023)
 
-🏠 ## Project Overview
+## 📌 Project Overview
+This project performs an in-depth Exploratory Data Analysis (EDA) on property market data across Indonesia collected between **2021 and 2023**. The goal is to answer critical business questions regarding property valuation and regional trends through data visualization and statistical analysis.
 
-This project focuses on Exploratory Data Analysis (EDA) of the Indonesian property market using data collected from 2021 to 2023. The goal is to derive actionable business insights and answer specific questions regarding property trends, valuations, and regional distribution across Indonesia.
+## 🛠 Process & Features
+- **Data Preprocessing:** Cleaning raw data, handling inconsistencies, and standardizing formats.
+- **Missing Value Handling:** Implementing imputation strategies for incomplete records.
+- **Visualization:** Mapping price distributions and property characteristics across different Indonesian regions.
+- **Insight Generation:** Deriving actionable trends from the cleaned dataset.
 
-🔧 ## Workflow
-
-Data Cleaning: Extensive preprocessing to handle inconsistencies in the raw dataset.
-Missing Value Handling: Applied imputation strategies to manage gaps in the data.
-Exploratory Data Analysis: Visualized distributions, correlations, and outliers to understand the market landscape.
+## 🧰 Tech Stack
+- Python (Pandas, NumPy)
+- Visualization: Matplotlib, Seaborn
